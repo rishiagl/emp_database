@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS company (
     city TEXT NOT NULL,
     state TEXT NOT NULL,
     pincode TEXT NOT NULL,
-    gstn  TEXT NOT NULL UNIQUE,
+    gstn  TEXT NOT NULL,
     phone_no TEXT NOT NULL,
     email TEXT NOT NULL,
     website TEXT,
