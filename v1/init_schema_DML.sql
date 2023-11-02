@@ -69,5 +69,5 @@ INSERT INTO product(name, hsn, tax_rate) VALUES ('Aquaguard Water Purifier', '84
 INSERT INTO product(name, hsn, tax_rate) VALUES ('Kent Water Purifier', '84212190', 18);
 
 INSERT INTO transaction_metadata(type, company_name, prefix, last_inserted_id) VALUES('invoice', 'Demo Company', 'INV2223', '10');
-INSERT INTO transaction_metadata(type, company_name, prefix, last_inserted_id) VALUES('invoice', 'My Choice - Ammbagan', 'INV2223', '10');
+INSERT INTO transaction_metadata(type, company_name, prefix, last_inserted_id) VALUES('invoice', 'My Choice - Ambagan', 'INV2223', '10');
 INSERT INTO transaction_metadata(type, company_name, prefix, last_inserted_id) VALUES('invoice', 'My Choice - Kalimati', 'INV2223', '10');
